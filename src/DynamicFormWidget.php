@@ -36,6 +36,7 @@ class DynamicFormWidget extends \yii\base\Widget
     public $widgetItem;
     /**
      * @var string
+     *
      */
     public $limit = 999;
     /**
